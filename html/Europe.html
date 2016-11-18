@@ -87,24 +87,16 @@
   </div>
 
   <div class="container" id="test">
-    <div class="col-sm-8 col-sm-offset-2">
-      <div ng-controller="My.Controller">
-          <ul>
-              <!--<li ng-repeat="x in activities.categories | filter: {category: 'Europe'}">
+    <div ng-controller="My.Controller">
+              <div class='col-sm-4' ng-repeat="x in activities.categories | filter: {category: 'Europe'}">
+                <img ng-src="{{x.imgUrl}}" class="img-circle  center-block">
+                <blockquote>
                   <p>{{x.activity}}</p>
-                  <img ng-src="{{x.imgUrl}}"/>
-              </li>-->
-              <li>
-                <div class='col-sm-4' ng-repeat="x in activities.categories | filter: {category: 'Europe'}">
-                  <img ng-src="{{x.imgUrl}}" class="img-circle  center-block">
-                  <blockquote>
-                    <p>{{x.activity}}</p>
-                    <small>{{x.location}}</small>
-                  </blockquote>
-                </div>
-              </li>
-          </ul>
-      </div>
+                  <small>{{x.location}}</small>
+                </blockquote>
+              </div>
+            </li>
+        </ul>
     </div>
   </div>
 <!--
