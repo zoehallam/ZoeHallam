@@ -7,9 +7,28 @@
         "imgUrl": "../images/Europe/russianBallet.jpg"
       },
       {
-        "activity":"See Swan Lake at the Ballet",
+        "activity":"See the Leaning Tower of Pisa",
         "category": "Europe",
-        "location":"Russia",
-        "imgUrl": "../images/Europe/russianBallet.jpg"
-      }]
+        "location":"Italy",
+        "imgUrl": "../images/Europe/leaningTowerOfPisa.jpg"
+      },
+      {
+        "activity":"Swim in the Blue Lagoon",
+        "category": "Europe",
+        "location":"Iceland",
+        "imgUrl": "../images/Europe/blueLagoon.jpg"
+      },
+      {
+        "activity":"Climb the Eiffel Tower",
+        "category": "Europe",
+        "location":"France",
+        "imgUrl": "../images/Europe/eiffelTower.jpg"
+      },
+      {
+        "activity":"Swim in the Great Barrier Reef",
+        "category": "Asia",
+        "location":"Australia",
+        "imgUrl": "../images/greatBarrierReef.jpg"
+      }
+    ]
 }

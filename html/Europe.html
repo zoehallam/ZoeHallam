@@ -90,8 +90,7 @@
     <div class="col-sm-8 col-sm-offset-2">
       <div ng-controller="My.Controller">
           <ul>
-              <li> test </li>
-              <li ng-repeat="x in activities.categories">
+              <li ng-repeat="x in activities.categories | filter {category: 'Europe'}">
                   {{x.activity}}
               </li>
           </ul>
