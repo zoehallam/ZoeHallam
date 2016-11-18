@@ -179,6 +179,36 @@
         "category": "Sports and Health",
         "location":"Anywhere",
         "imgUrl": "../images/SportsAndHealth/marathon.jpg"
+      },
+      {
+        "activity":"Learn at least one other language fluently",
+        "category": "Intellectual",
+        "location":"Anywhere",
+        "imgUrl": "../images/Intellectual/languages.jpg"
+      },
+      {
+        "activity":"Read at least five Shakespeare books",
+        "category": "Intellectual",
+        "location":"Anywhere",
+        "imgUrl": "../images/Intellectual/shakespeare.jpg"
+      },
+      {
+        "activity":"Learn piano or guitar",
+        "category": "Intellectual",
+        "location":"Anywhere",
+        "imgUrl": "../images/Intellectual/music.jpg"
+      },
+      {
+        "activity":"Explore the Grand Canyon",
+        "category": "North America",
+        "location":"USA",
+        "imgUrl": "../images/NorthAmerica/grandCanyon.jpg"
+      },
+      {
+        "activity":"Learn to surf in California",
+        "category": "North America",
+        "location":"USA",
+        "imgUrl": "../images/NorthAmerica/surf.jpg"
       }
     ]
 }
