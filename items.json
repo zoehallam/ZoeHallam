@@ -119,6 +119,66 @@
         "category": "North America",
         "location":"New York",
         "imgUrl": "../images/NorthAmerica/iceSkatingNY.jpg"
+      },
+      {
+        "activity":"Learn to Ski",
+        "category": "Sports and Health",
+        "location":"Alps",
+        "imgUrl": "../images/SportsAndHealth/skiing.jpg"
+      },
+      {
+        "activity":"Learn Yoga and Meditation",
+        "category": "Sports and Health",
+        "location":"Anywhere",
+        "imgUrl": "../images/SportsAndHealth/yoga.jpg"
+      },
+      {
+        "activity":"Complete a Tough Mudder",
+        "category": "Sports and Health",
+        "location":"UK",
+        "imgUrl": "../images/SportsAndHealth/toughMudder.jpg"
+      },
+      {
+        "activity":"Complete a Half Marathon",
+        "category": "Sports and Health",
+        "location":"Anywhere",
+        "imgUrl": "../images/SportsAndHealth/marathon.jpg"
+      },
+      {
+        "activity":"See the Northern Lights",
+        "category": "Europe",
+        "location":"Scandanavia",
+        "imgUrl": "../images/Europe/northernLights.jpg"
+      },
+      {
+        "activity":"Ride a team of dogs across the Arctic Circle",
+        "category": "Europe",
+        "location":"Scandanavia",
+        "imgUrl": "../images/Europe/dogsled.jpg"
+      },
+      {
+        "activity":"Visit Gaudi's Parc Guell in Barcelona",
+        "category": "Europe",
+        "location":"Spain",
+        "imgUrl": "../images/Europe/gaudi.jpg"
+      },
+      {
+        "activity":"Visit Santorini",
+        "category": "Europe",
+        "location":"Greece",
+        "imgUrl": "../images/Europe/santorini.jpg"
+      },
+      {
+        "activity":"Oktoberfest",
+        "category": "Europe",
+        "location":"Germany",
+        "imgUrl": "../images/Europe/oktoberfest.jpg"
+      },
+      {
+        "activity":"Cuddle a Koala",
+        "category": "Australasia",
+        "location":"Australia",
+        "imgUrl": "../images/Australasia/koala.jpg"
       }
     ]
 }
