@@ -94,8 +94,8 @@
                   <p>{{x.activity}}</p>
                   <img ng-src="{{x.imgUrl}}"/>
               </li>-->
-              <li ng-repeat="x in activities.categories | filter: {category: 'Europe'}">
-                <div class='row'>
+              <li>
+                <div class='col-sm-4' ng-repeat="x in activities.categories | filter: {category: 'Europe'}">
                   <img ng-src="{{x.imgUrl}}" class="img-circle  center-block">
                   <blockquote>
                     <p>{{x.activity}}</p>
