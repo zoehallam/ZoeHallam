@@ -23,7 +23,7 @@
 
   <title> My Bucket List </title>
 </head>
-<body ng-app="DemoApp" ng-controller="My.Controller">
+<body>
 
   <nav class="navbar navbar-custom">
     <div class="container-fluid">
@@ -45,8 +45,8 @@
           <li class="dropdown">
             <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Categories <span class="caret"></span></a>
             <ul class="dropdown-menu">
-              <li><a href="#">Europe</a></li>
-              <li><a href="#">Asia</a></li>
+              <li><a href="../html/Europe.html">Europe</a></li>
+              <li><a href="../html/Asia.html">Asia</a></li>
               <li><a href="#">Africa</a></li>
               <li><a href="#">Australasia</a></li>
               <li><a href="#">North America</a></li>
@@ -83,20 +83,7 @@
   <div class='jumbotron'>
     <div class='container text-center'>
       <div class='col-sm-8 col-sm-offset-2'>
-          <h1>Europe</h1>
-      </div>
-    </div>
-  </div>
-
-  <div class="container" id="test">
-    <div class="col-sm-8 col-sm-offset-2">
-      <div ng-controller="My.Controller">
-          <ul>
-              <li> test </li>
-              <li ng-repeat="x in activities.Europe">
-                  {{x.activity}}
-              </li>
-          </ul>
+          <h1>Asia</h1>
       </div>
     </div>
   </div>
