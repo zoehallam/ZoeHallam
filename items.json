@@ -59,6 +59,66 @@
         "category": "South America",
         "location":"Peru",
         "imgUrl": "../images/Asia/machuPicchu.jpg"
+      },
+      {
+        "activity":"Learn about Aboriginal Culture",
+        "category": "Australasia",
+        "location":"Australia",
+        "imgUrl": "../images/Australasia/aboriginals.jpg"
+      },
+      {
+        "activity":"Visit Uluru",
+        "category": "Australasia",
+        "location":"Australia",
+        "imgUrl": "../images/Australasia/uluru.jpg"
+      },
+      {
+        "activity":"Visit a Kangaroo Sanctuary",
+        "category": "Australasia",
+        "location":"Australia",
+        "imgUrl": "../images/Australasia/kangaroo.jpg"
+      },
+      {
+        "activity":"Visit Hobbit Land",
+        "category": "Australasia",
+        "location":"New Zealand",
+        "imgUrl": "../images/Australasia/hobbitland.jpg"
+      },
+      {
+        "activity":"Participate in the Floating Lanterns Festival",
+        "category": "Asia",
+        "location":"Thailand",
+        "imgUrl": "../images/Asia/floatingLanterns.jpg"
+      },
+      {
+        "activity":"Walk along the Great Wall Of China",
+        "category": "Asia",
+        "location":"China",
+        "imgUrl": "../images/Asia/greatWallOfChina.jpg"
+      },
+      {
+        "activity":"Swim and Kayak through Ang Thong National Park",
+        "category": "Asia",
+        "location":"Thailand",
+        "imgUrl": "../images/Asia/angThong.jpg"
+      },
+      {
+        "activity":"See the Cherry Blossoms in Japan",
+        "category": "Asia",
+        "location":"Japan",
+        "imgUrl": "../images/Asia/cherryBlossoms.jpg"
+      },
+      {
+        "activity":"Stay in a Sea Bungalow in the Maldives",
+        "category": "Asia",
+        "location":"Maldives",
+        "imgUrl": "../images/Asia/maldivesSeaBungalow.jpg"
+      },
+      {
+        "activity":"Go Ice Skating in Central Park",
+        "category": "North America",
+        "location":"New York",
+        "imgUrl": "../images/NorthAmerica/iceSkatingNY.jpg"
       }
     ]
 }

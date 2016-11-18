@@ -88,7 +88,7 @@
 
   <div class="container" id="test">
     <div ng-controller="My.Controller">
-        <div class='col-sm-4' ng-repeat="x in activities.categories | filter: {category: 'Africa'}">
+        <div class='col-sm-4 activityRepeat' ng-repeat="x in activities.categories | filter: {category: 'Africa'}">
           <img ng-src="{{x.imgUrl}}" class="img-circle  center-block">
           <blockquote>
             <p>{{x.activity}}</p>
