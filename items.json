@@ -44,9 +44,9 @@
       },
       {
         "activity":"Swim in the Great Barrier Reef",
-        "category": "Australasia",
+        "category": "Oceania",
         "location":"Australia",
-        "imgUrl": "../images/Australasia/greatBarrierReef.jpg"
+        "imgUrl": "../images/Oceania/greatBarrierReef.jpg"
       },
       {
         "activity":"Play with Cheetah's in a sanctuary",
@@ -62,27 +62,27 @@
       },
       {
         "activity":"Learn about Aboriginal Culture",
-        "category": "Australasia",
+        "category": "Oceania",
         "location":"Australia",
-        "imgUrl": "../images/Australasia/aboriginals.jpg"
+        "imgUrl": "../images/Oceania/aboriginals.jpg"
       },
       {
         "activity":"Visit Uluru",
-        "category": "Australasia",
+        "category": "Oceania",
         "location":"Australia",
-        "imgUrl": "../images/Australasia/uluru.jpg"
+        "imgUrl": "../images/Oceania/uluru.jpg"
       },
       {
         "activity":"Visit a Kangaroo Sanctuary",
-        "category": "Australasia",
+        "category": "Oceania",
         "location":"Australia",
-        "imgUrl": "../images/Australasia/kangaroo.jpg"
+        "imgUrl": "../images/Oceania/kangaroo.jpg"
       },
       {
         "activity":"Visit Hobbit Land",
-        "category": "Australasia",
+        "category": "Oceania",
         "location":"New Zealand",
-        "imgUrl": "../images/Australasia/hobbitland.jpg"
+        "imgUrl": "../images/Oceania/hobbitland.jpg"
       },
       {
         "activity":"Participate in the Floating Lanterns Festival",
@@ -152,9 +152,9 @@
       },
       {
         "activity":"Cuddle a Koala",
-        "category": "Australasia",
+        "category": "Oceania",
         "location":"Australia",
-        "imgUrl": "../images/Australasia/koala.jpg"
+        "imgUrl": "../images/Oceania/koala.jpg"
       },
       {
         "activity":"Learn to Ski",
