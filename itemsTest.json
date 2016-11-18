@@ -1,7 +1,21 @@
-{"employees":
+{"categories":
   [
-        {"name":"John Doe"},
-        {"name":"Sam Doe"},
-        {"name":"Jack Doe"}
-  ]
+    {"Europe":
+      [
+        {
+          "activity":"See Swan Lake at the Ballet",
+          "location":"Russia",
+          "imgUrl": "../images/Europe/russianBallet.jpg"
+        }
+      ]
+    },
+    {"Asia":
+      [
+        {
+          "activity":"See Swan Lake at the Ballet",
+          "location":"Russia",
+          "imgUrl": "../images/Europe/russianBallet.jpg"
+        }
+      ]
+  }]
 }
