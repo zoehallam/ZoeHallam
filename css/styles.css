@@ -28,6 +28,10 @@ body {
   background-color: #009999;
 }
 
+.row {
+  padding-bottom: 50px;
+}
+
 .btn-custom {
   background-color: hsl(180, 89%, 12%) !important;
   background-repeat: repeat-x;
