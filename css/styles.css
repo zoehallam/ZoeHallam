@@ -36,9 +36,9 @@ h1 {
   padding-bottom: 50px;
 }
 
-.activityRepeat img {
-  height: 200px;
-  width: 200px;
+img {
+  max-height: 200px;
+  max-width: 200px;
 }
 
 .btn-custom {
