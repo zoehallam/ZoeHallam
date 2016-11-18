@@ -1,21 +1,15 @@
 {"categories":
   [
-    {"Europe":
-      [
-        {
-          "activity":"See Swan Lake at the Ballet",
-          "location":"Russia",
-          "imgUrl": "../images/Europe/russianBallet.jpg"
-        }
-      ]
-    },
-    {"Asia":
-      [
-        {
-          "activity":"See Swan Lake at the Ballet",
-          "location":"Russia",
-          "imgUrl": "../images/Europe/russianBallet.jpg"
-        }
-      ]
-  }]
+      {
+        "activity":"See Swan Lake at the Ballet",
+        "category": "Europe",
+        "location":"Russia",
+        "imgUrl": "../images/Europe/russianBallet.jpg"
+      },
+      {
+        "activity":"See Swan Lake at the Ballet",
+        "category": "Europe",
+        "location":"Russia",
+        "imgUrl": "../images/Europe/russianBallet.jpg"
+      }]
 }
