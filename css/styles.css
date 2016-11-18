@@ -36,6 +36,11 @@ h1 {
   padding-bottom: 50px;
 }
 
+.activityRepeat img {
+  height: 200px;
+  width: 200px;
+}
+
 .btn-custom {
   background-color: hsl(180, 89%, 12%) !important;
   background-repeat: repeat-x;
