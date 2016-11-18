@@ -25,10 +25,40 @@
         "imgUrl": "../images/Europe/eiffelTower.jpg"
       },
       {
+        "activity":"Cycle through Amsterdam",
+        "category": "Europe",
+        "location":"Netherlands",
+        "imgUrl": "../images/Europe/amsterdamCycle.jpg"
+      },
+      {
+        "activity":"See Michaelangelo's David",
+        "category": "Europe",
+        "location":"Florence",
+        "imgUrl": "../images/Europe/davidFlorence.jpg"
+      },
+      {
+        "activity":"Ride a Gondola through Venice",
+        "category": "Europe",
+        "location":"Italy",
+        "imgUrl": "../images/Europe/gondolaVenice.jpg"
+      },
+      {
         "activity":"Swim in the Great Barrier Reef",
         "category": "Asia",
         "location":"Australia",
-        "imgUrl": "../images/greatBarrierReef.jpg"
+        "imgUrl": "../images/Australasia/greatBarrierReef.jpg"
       }
+      {
+        "activity":"Play with Cheetah's in a sanctuary",
+        "category": "Africa",
+        "location":"Kenya",
+        "imgUrl": "../images/Africa/cheetahs.jpg"
+      },
+      {
+        "activity":"Trek to Machu Picchu",
+        "category": "South America",
+        "location":"Peru",
+        "imgUrl": "../images/Asia/machuPicchu.jpg"
+      },
     ]
 }
