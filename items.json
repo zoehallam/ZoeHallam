@@ -1,6 +1,6 @@
 {
     "categories":
-        {
+        [{
             "Europe":
                 [{
                     "activity":"See Swan Lake at the Ballet",
@@ -23,11 +23,12 @@
                        "imgUrl": "../images/Europe/eiffelTower.jpg"
                     }]
         },
-            "Asia":
+        {
+              "Asia":
                   [{
                       "activity":"Climb the Eiffel Tower",
                       "location":"France",
                       "imgUrl": "../images/Europe/eiffelTower.jpg"
                    }]
-        }
+        }]
 }
